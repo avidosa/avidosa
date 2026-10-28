@@ -1,8 +1,6 @@
 # avidosa
 
-Analista SOC/CSIRT. Me muevo entre la detección, el análisis de incidentes y la automatización de tareas de triaje.
+Analista SOC/CSIRT. Aquí están los laboratorios y herramientas que he ido montando.
 
+- Cada proyecto, explicado con capturas: https://mysec.zone/proyectos/
 - Notas y apuntes de ciberseguridad: https://mysec.zone
-- Herramientas: SIEM, EDR, Python, PowerShell, Linux
-
-Aquí iré publicando laboratorios y herramientas propias.
